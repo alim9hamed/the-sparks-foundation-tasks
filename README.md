@@ -8,7 +8,7 @@ This repository contains the tasks that I completed while working as an intern f
 - **Internship Duration** - 1 Month ( January-2023 )
 - **Internship Type** - Remotely
 
-## [Task-1](https://github.com/alim9hamed/the-sparks-foundation-tasks/blob/ec46a651688940e4cfbfa8fcfccbf8b94f14dbad/task1_linear_regression.ipynb) : Prediction using Supervised ML (Level - Beginner)
+## [Task-1](https://github.com/alim9hamed/the-sparks-foundation-tasks/blob/95d8b89cbdf03b0e024f1155e050e4ff0f560f96/task1_linear_regression.ipynb) : Prediction using Supervised ML (Level - Beginner)
 
 1. Predict the percentage of marks of an student based on the number of study hours.
 2. This is a simple linear regression task as it involves just 2 variables.
